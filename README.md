@@ -1,0 +1,2 @@
+# LogicStation
+ A discord bot.
