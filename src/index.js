@@ -8,6 +8,7 @@ client.once('ready' , () => {
     console.log("Ready!")
 
     new CommandingJS(client , 'commands')
+        .setMongoPath(config.mongo_uri)
 })
 
 client.login(config.token)
