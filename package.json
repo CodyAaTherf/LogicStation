@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "commanding.js": "^1.2.0",
+    "discord.js": "^13.8.0"
+  },
+  "name": "logicstation",
+  "description": "A discord bot.",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodyAaTherf/LogicStation.git"
+  },
+  "author": "AaTherf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CodyAaTherf/LogicStation/issues"
+  },
+  "homepage": "https://github.com/CodyAaTherf/LogicStation#readme"
+}
